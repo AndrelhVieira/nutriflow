@@ -1,0 +1,22 @@
+[
+  {
+    "id": "r1",
+    "title": "Omelete rápido com espinafre",
+    "time": 10,
+    "category": "Café da manhã",
+    "diet": "vegetariana",
+    "ingredients": ["2 ovos", "1 punhado de espinafre", "sal e pimenta"],
+    "steps": ["Bata os ovos", "Refogue o espinafre", "Cozinhe a omelete"],
+    "image": null
+  },
+  {
+    "id": "r2",
+    "title": "Salada de grão-de-bico express",
+    "time": 15,
+    "category": "Almoço",
+    "diet": "vegana",
+    "ingredients": ["1 lata de grão-de-bico", "tomate", "cebola", "azeite"],
+    "steps": ["Misture os ingredientes", "Tempere a gosto"],
+    "image": null
+  }
+]
